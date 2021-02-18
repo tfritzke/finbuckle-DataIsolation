@@ -1,5 +1,5 @@
 # finbuckle-DataIsolationSample
-Demo of Finbuckle.MultiTenant using an in-memory MultiTenant Store and per-tenant data isolation.
+Demo of Finbuckle.MultiTenant 6.2.0 using an in-memory MultiTenant Store and per-tenant data isolation.
 
 Finbuckle.MultiTenant is an open source multitenancy library for .NET.
 https://github.com/Finbuckle/Finbuckle.MultiTenant
@@ -9,7 +9,7 @@ https://github.com/Finbuckle/Finbuckle.MultiTenant/tree/develop/samples/ASP.NET%
 
 A list of changes made to it:
 
-* ASP.NET Core dependencies have been updated to use Net Core SDK 3.1.405
+* ASP.NET Core dependencies have been updated to use Net 5 / ASP.NET Core 5.0.
 
 * Configured to use an in-memory tenant store instead of the read-only ConfigurationStore
 
